@@ -1,6 +1,6 @@
 # MarsViewBee
 
-[logo]: 939x0w.jpg
+![Curiosity stereo image vr](939x0w.jpg)
 
 https://apps.apple.com/us/app/marsviewbee/id1474997686?ls=1
 
