@@ -8,3 +8,6 @@ Application collect raw stereo images from Curiosity rover sol by sol. Displays 
 Support Bluetooth control to easily navigate trough the daily images, while VR head set stays on the head.
 
 Please contact if you experience any issue using this app.
+
+Developed by: Andrii Pervushyn
+Contact email: andrei.perwushin@gmail.com
