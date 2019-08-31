@@ -10,4 +10,5 @@ Support Bluetooth control to easily navigate trough the daily images, while VR h
 Please contact if you experience any issue using this app.
 
 Developed by: Andrii Pervushyn
+
 Contact email: andrei.perwushin@gmail.com
